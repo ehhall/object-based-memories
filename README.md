@@ -2,7 +2,7 @@
 Journal Article [link](https://rdcu.be/dHWZk).
 <br> OSF Repository [link](https://osf.io/mkas7/). 
 
-This repository contains code to work with the dataset from Hall & Geng (2024). If you use this code or dataset in you research, please cite this paper. 
+If you use this code or dataset in you research, please cite this paper. 
 
 ```
 @article{hall2024object,
