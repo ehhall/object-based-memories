@@ -1,14 +1,18 @@
 # Object-based attention during scene perception elicits boundary contraction in memory
 Journal Article [link](https://rdcu.be/dHWZk).
 <br> OSF Repository [link](https://osf.io/mkas7/). 
-<br> Please contact ehhall @ ucdavis . edu with questions. 
 
 This repository contains code to work with the dataset from Hall & Geng (2024). If you use this code or dataset in you research, please cite this paper. 
 
 ```
-Hall, E.H., Geng, J.J.
-Object-based attention during scene perception elicits boundary contraction in memory.
-Mem Cogn (2024). https://doi.org/10.3758/s13421-024-01540-9
+@article{hall2024object,
+  title={Object-based attention during scene perception elicits boundary contraction in memory},
+  author={Hall, Elizabeth H and Geng, Joy J},
+  journal={Memory \& cognition},
+  pages={1--13},
+  year={2024},
+  publisher={Springer}
+}
 ```
 
 ## Abstract
@@ -21,4 +25,4 @@ The dataset can be downloaded from the OSF Repository [link](https://osf.io/mkas
 
 ## Code 
 
-The settings file defines the directories. Attention.ipynb notebook includes code for the eyetracking analyses. Boundary.ipynb calculates boundary transformations in the drawings (Corners.ipynb is used to define the scale of the scanned in drawings). Location.ipynb calculates the shift in remembered object location from the memory drawings. Memory.ipynb includes models for what determines whether an object in the image will be drawn from memory. 
+The settings file defines the directories. Attention.ipynb notebook includes code for the eyetracking analyses. Boundary.ipynb calculates boundary transformations in the drawings. Corners.ipynb is used to define the scale of the scanned in drawings. Location.ipynb calculates the shift in remembered object location from the memory drawings. Memory.ipynb includes models for what determines whether an object in the image will be drawn from memory. 
