@@ -25,4 +25,4 @@ The dataset can be downloaded from the OSF Repository [link](https://osf.io/mkas
 
 ## Code 
 
-The settings file defines the directories. Attention.ipynb notebook includes code for the eyetracking analyses. Boundary.ipynb calculates boundary transformations in the drawings. Corners.ipynb is used to define the scale of the scanned in drawings. Location.ipynb calculates the shift in remembered object location from the memory drawings. Memory.ipynb includes models for what determines whether an object in the image will be drawn from memory. 
+The settings file defines the directories. <i>Attention</i> notebook includes code for the eyetracking analyses. <i>Boundary</i> calculates boundary transformations in the drawings. <i>Corners</i> is used to define the scale of the scanned in drawings. <i>Location</i> calculates the shift in remembered object location from the memory drawings. <i>Memory</i> includes models for what determines whether an object in the image will be drawn from memory. 
