@@ -21,7 +21,7 @@ Boundary contraction and extension are two types of scene transformations that o
 
 ## Data
 
-The dataset can be downloaded from the OSF Repository [link](https://osf.io/mkas7/). It contains the drawings done from memory, the 15 scenes used in the experiment with segmentations for the objects in the scenes, eye-tracking fixations from the study phase, and ratings from the 3 online AMT tasks. 
+CSV files for the main analyses are included here. The full dataset can be downloaded from the OSF Repository [link](https://osf.io/mkas7/). It contains the drawings done from memory, the 15 scenes used in the experiment with segmentations for the objects in the scenes, eye-tracking fixations from the study phase, and ratings from the 3 online AMT tasks. 
 
 ## Code 
 
