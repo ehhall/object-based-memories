@@ -1,7 +1,7 @@
 # Object-based attention during scene perception elicits boundary contraction in memory
 Journal Article [link](https://rdcu.be/dHWZk).
 <br> OSF Repository [link](https://osf.io/mkas7/). 
-Beth's website [link](https://elizabethhhall.com).
+<br> Beth's website [link](https://elizabethhhall.com).
 
 If you use this code or dataset in you research, please cite this paper. 
 
