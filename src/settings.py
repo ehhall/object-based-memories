@@ -7,7 +7,14 @@ PROJECT_ROOT = os.path.join(EXEC_HOME, os.pardir)
 # The user home directory
 USER_HOME = os.path.expanduser("~")
 
-IMG_PATH = os.path.join(PROJECT_ROOT, 'data', 'img_files')
-DATASET_PATH_VR = os.path.join(PROJECT_ROOT, 'data', 'vr')
-DATASET_PATH_SITTING = os.path.join(PROJECT_ROOT, 'data', 'seated_vr')
-DATASET_PATH_BROWSER = os.path.join(PROJECT_ROOT, 'data', 'browser')
+# data paths
+DATA_PATH = os.path.join(PROJECT_ROOT, 'data')
+IMG_PATH = os.path.join(PROJECT_ROOT, 'data', 'stimuli')
+XML_PATH = os.path.join(PROJECT_ROOT, 'data', 'segmentations')
+DRAWINGS_PATH = os.path.join(PROJECT_ROOT, 'data', 'drawings')
+
+# results path
+RESULTS_PATH = os.path.join(PROJECT_ROOT, 'results')
+
+
+
